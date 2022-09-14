@@ -1,4 +1,4 @@
-# DELIVERABLE 1
+## DELIVERABLE 1
 SELECT e.emp_no,
 	e.first_name,
 	e.last_name,
@@ -28,7 +28,7 @@ FROM unique_titles
 GROUP BY title
 ORDER BY count DESC;
 
-# DELIVERABLE 2
+## DELIVERABLE 2
 SELECT DISTINCT ON(e.emp_no) e.emp_no,
 	e.first_name,
 	e.last_name,
