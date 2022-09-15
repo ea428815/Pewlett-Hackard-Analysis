@@ -26,6 +26,7 @@ Hence, the majority of positions that will need to be filled are Senior Engineer
 [all_employees.pdf](https://github.com/ea428815/Pewlett-Hackard-Analysis/files/9569836/all_employees.pdf)
 
 ## Mentorship 
+<img width="287" alt="Screen Shot 2022-09-15 at 3 33 36 PM" src="https://user-images.githubusercontent.com/62758795/190493210-4a0380ee-d47d-4719-8d25-92ec5438de74.png">
 [mentorship_eligible.pdf](https://github.com/ea428815/Pewlett-Hackard-Analysis/files/9569847/mentorship_eligible.pdf)
 
 ## Analysis
