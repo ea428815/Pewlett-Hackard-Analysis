@@ -19,7 +19,7 @@ Additionally, there are only 7 titles that the retiring employees have within Pe
 Hence, the majority of positions that will need to be filled are Senior Engineers and Senior Staff, which comprise almost 50,000 of the employees retiring.
 
 ## Retiring 
-[retiring_employees.pdf](https://github.com/ea428815/Pewlett-Hackard-Analysis/files/9569803/retiring_employees.pdf)
+<img width="289" alt="Screen Shot 2022-09-15 at 3 25 57 PM" src="https://user-images.githubusercontent.com/62758795/190492059-dd649ff5-ec41-402c-961b-4d2a387d9c18.png">
 
 ## Total Employees
 
